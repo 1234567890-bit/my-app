@@ -44,7 +44,7 @@ function AufgabenLoeschen () {
                             <Nav />
                     </div>
                     <div class="col-sm-8">
-                        <hr/>
+                       
                     <ul>
          {list.map(x=>{
             return(<div>{x.description}
